@@ -1,6 +1,6 @@
 <script>
   import SEO from "$components/SEO.svelte"
-  import Changelog from "../../../../../../../CHANGELOG.md"
+  import Changelog from "./CHANGELOG.md"
   import Translate from "$components/Translate.svelte"
 </script>
 

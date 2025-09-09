@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "vite dev --port 3000 --open",
-    "build": "NODE_ENV=production vite build --logLevel error",
+    "build": "vite build --logLevel error",
     "preview": "npm run build && vite preview --port 3000 --open",
     "stats": "open build/stats.html",
     "langdiff": "node src/lib/scripts/compare-translate-files.js"
