@@ -1,0 +1,7 @@
+.svelte-kit
+.env.local
+/node_modules
+/build
+.env
+__sapper__
+.svelte-kit/build
